@@ -1,7 +1,7 @@
 # Google Research Football
 
 ##Hier füge ich einfach mal ein paar Zeilen ein um die Arbeitsweise von GitHub besser kennenzulernen.
-##Inhaltlich machen diese Zeilen keinen Sinn. Sie sollen nur die bestehende readme.md veränder.
+##Inhaltlich machen diese Zeilen keinen Sinn. Sie sollen nur die bestehende readme.md verändern.
 
 This repository contains an RL environment based on open-source game Gameplay
 Football. <br> It was created by the Google Brain team for research purposes.
