@@ -1,4 +1,4 @@
-# ein anderer 2. Fix
+# ein anderer 2. Fix und 2.Feature docker file (zusammengeführt)
 # Fix einfügen
 # weiteren Fix einfügen
 
